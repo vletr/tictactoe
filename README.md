@@ -1,3 +1,3 @@
 # tictactoe
 
-#tictactoe game to test out react.js
+tictactoe game to test out react
